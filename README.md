@@ -6,6 +6,6 @@ Here you can find my Data Visualization related projects.
 * Tableau
 * Power BI
 * Python: Pandas, Matplotlib, Seaborn
+* SQL
 * Excel
 * Google Sheets
-  
